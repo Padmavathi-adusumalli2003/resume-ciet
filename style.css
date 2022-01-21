@@ -1,0 +1,38 @@
+ *{
+    color: blue;
+    font-style:italic;
+    font-family: "franklin Gothic Medium"
+
+}
+.main{
+  display: flex;
+
+}
+.left{
+    width: 30%;
+    border: 3px solid #eaecee;
+    box-shadow:3px 3px 3px #ddd;
+
+}
+img {
+    width: 75%;
+}
+.right {
+    margin: 3px;
+    width:65%;
+    border: 2px solid #ddd;
+    box-shadow: 3px 3px 3px #ddd;
+
+    
+}
+.cr{
+    color: red;
+}
+.skills{
+    background-color: black;
+    color: white;
+    border: 2px solid #ddd;
+    box-shadow:3px 3px 3px #ddd;
+    padding: 3px;
+    border-radis: 3px;
+}
